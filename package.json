@@ -1,5 +1,5 @@
 {
-  "name": "check-connection",
+  "name": "@oussamazaqouri/connection_checker",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
